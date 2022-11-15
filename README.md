@@ -13,5 +13,6 @@ The main of this project is to apply the knowledge you acquired during this cour
 * Paper : https://arxiv.org/abs/1703.06868v2
 * Code : https://github.com/naoto0804/pytorch-AdaIN
 
+# Main Course : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 
 ![Architecture](architecture.jpg)
