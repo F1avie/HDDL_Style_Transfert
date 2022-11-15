@@ -9,4 +9,6 @@ The main of this project is to apply the knowledge you acquired during this cour
      * Explaining how this algorithm works (oral presentation).
      * Apply these algorithm on a dataset and explain their performances (notebook and oral presentation).
 
-
+# Ressources 
+* Paper : https://arxiv.org/abs/1703.06868v2
+* Code : https://github.com/naoto0804/pytorch-AdaIN
