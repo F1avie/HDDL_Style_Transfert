@@ -1,5 +1,5 @@
 # HDDL_Style_Transfert
-## Projet INSA GMM 2022
+## Projet INSA 5 GMM 2022
 Minh Hai Nguyen, Cam Thanh Ha Le, Julie Tryoen, Flavie Kolb
 
 # Graduation : (50 % of the final grad)
