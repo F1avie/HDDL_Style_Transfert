@@ -12,3 +12,6 @@ The main of this project is to apply the knowledge you acquired during this cour
 # Ressources 
 * Paper : https://arxiv.org/abs/1703.06868v2
 * Code : https://github.com/naoto0804/pytorch-AdaIN
+
+
+![Architecture](architecture.jpg)
